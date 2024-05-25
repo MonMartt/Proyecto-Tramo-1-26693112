@@ -1,0 +1,56 @@
+body {
+  background-color: ##ffffff;
+  color: #ffffff;
+  font-family: verdana, arial;
+  margin: 0;
+  padding: 0;
+}
+P {
+  font-size: 12pt;
+  font-family: bold;
+  font-weight: cursiva;
+  text-align: center;
+}
+p1 {
+  font-size: 12pt;
+  font-family: bold;
+  font-weight: cursiva;
+  text-align: center; 
+}
+H1 {
+  font-size: 10pt;
+  font-family: verdana, arial;
+  text-decoration: underline;
+  text-align: center;
+  background-color: pink;
+}
+H2 {
+  font-size: 9pt;
+  font-family: verdana, arial;
+  text-decoration: underline;
+  text-align: center;
+  background-color: pink;
+}
+H3 {
+  font-size: 9pt;
+  font-family: verdana, arial;
+  text-decoration: underline;
+  text-align: center;
+  background-color: pink;
+}
+TD {
+  font-size: 10pt;
+  font-family: verdana, arial;
+  text-align: center;
+  background-color: #d5d0cf;
+}
+BODY {
+  background-color: ##ffffff;
+  font-family: arial;
+  color: red;
+}
+footer {
+  font-size: 9pt;
+  background-color: ##ffffff;
+  font-family: arial;
+  color: black;
